@@ -19,21 +19,22 @@
 
 ## 2. Tools <a name="tools"></a>
 
-| Tool                  | Purpose                               |
-|-----------------------|---------------------------------------|
-| Python                | Scripts for data collection and writing to the database |
-| python-weather        | Python package for getting weather data       |
-| pytest                | Unit and functional testing           |  
-| Docker                | Containerization platform             |
-| MongoDB               | Database                        |
+| Tool           | Purpose                                                 |
+|----------------|---------------------------------------------------------|
+| Python         | Scripts for data collection and writing to the database |
+| python-weather | Python package for getting weather data                 |
+| pytest         | Unit and functional testing                             |
+| Docker         | Containerization platform                               |
+| docker-compose | Container managment                                     |
+| MongoDB        | Database                                                |
 
 ## 3. Abbreviations and Names <a name="abbreviations-and-names"></a>
 
-|                       |                                                                       |
-|-----------------------|-----------------------------------------------------------------------|
-| SW      | Software, can also be an independent script                             |
+|             |                                                                   |
+|-------------|-------------------------------------------------------------------|
+| SW          | Software, can also be an independent script                       |
 | scr_weather | Script for collection and writing to the database of weather data |
-| db         | (MongoDB) database                                                   |
+| db          | (MongoDB) database                                                |
 
 ## 4. System Requirements <a name="system-requirements"></a>
 

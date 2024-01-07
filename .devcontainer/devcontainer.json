@@ -1,0 +1,11 @@
+{
+    "name": "weather_data_project_container",
+    "image": "weather_data:0.2",  
+    "extensions": [
+      "ms-python.python"
+    ],
+    "settings": {
+      "python.pythonPath": "/usr/local/bin/python"
+    }
+  }
+  
