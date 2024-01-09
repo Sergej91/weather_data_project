@@ -6,6 +6,9 @@
     ],
     "settings": {
       "python.pythonPath": "/usr/local/bin/python"
-    }
+    },
+    "runArgs": [
+      "--network=host"
+    ]
   }
   

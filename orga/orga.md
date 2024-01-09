@@ -7,8 +7,8 @@
 | 2024-01-04       | Setup Repo                    | Set up GitHub Repo                                                  | ✔      | 2024-01-04     |
 | 2024-01-04       | Script dev: Get weather data  | Python script for retrieving weather data                           | ✔      | 2024-01-07     |
 | 2024-01-04       | Write tests: Weather data     | Write functional tests for weather data retrieval                   | ✔      | 2024-01-07     |
-| 2024-01-04       | MongoDB Integration           | Run MongoDB database in container and connect to it via script      | ⚫      | -              |
-| 2024-01-04       | Script dev: writing to db     | Expand python script with writing to database                       | ⚫      | -              |
+| 2024-01-04       | MongoDB Integration           | Run MongoDB database in container and connect to it via script      | ✔      | 2024-01-09         |
+| 2024-01-04       | Script dev: writing to db     | Expand python script with writing to database                       | ✔      | 2024-01-09              |
 | 2024-01-04       | Write tests: db               | Write functional tests for weather data writing to database         | ⚫      | -              |
 | 2024-01-04       | Dockerization                 | Containerize the python script(s) using Docker                      | ⚫      | -              |
 | 2024-01-04       | UI Integration                | Integrate mongo express for database visualization                  | ⚫      | -              |
